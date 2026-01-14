@@ -25,6 +25,6 @@ public class OperacionDAO {
 
         } catch (SQLException e) {
             System.out.println("error al guardar operacion: " + e.getMessage());
-        }   
+        }
     }
 }

@@ -2,7 +2,9 @@
 
 # Calculadora de Consola en Java con Oracle Database 19c:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d136ef5d-3b26-4558-a6e3-5e8c0a05393d" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d136ef5d-3b26-4558-a6e3-5e8c0a05393d" />    
+
+<img width="2555" height="1079" alt="image" src="https://github.com/user-attachments/assets/3c46a195-fd3a-4caa-b4a8-562a17d1ba39" />  
 
 A continuación se presenta una **solución completa, profesional y ejecutable** de una **calculadora por consola en Java** .  
 con **persistencia de operaciones en Oracle Database 19c**, pensada para uso **académico o técnico** y desarrollada en **IntelliJ IDEA** .

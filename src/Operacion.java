@@ -27,4 +27,4 @@ public class Operacion {
     public double getResultado() {
         return resultado;
     }
-}   
+}

@@ -22,7 +22,7 @@ La aplicación permite:
 - Consultar el historial de operaciones almacenadas
 - Utilizar **JDBC** de forma estándar y clara
 - Implementar una **arquitectura simple por capas**:
-  - Main / Consola
+  - CalculadoraConsola / Consola
   - DAO (Acceso a Datos)
   - Modelo
   - Utilidad de Conexión

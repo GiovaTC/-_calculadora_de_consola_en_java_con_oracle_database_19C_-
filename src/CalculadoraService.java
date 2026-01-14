@@ -24,4 +24,4 @@ public class CalculadoraService {
             default -> "desconocida";
         };
     }
-}   
+}
